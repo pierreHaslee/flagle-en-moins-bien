@@ -6,7 +6,18 @@ On va donc le faire en moins bien.
 
 ___
 
-installation: (dans votre conda environnement) `pip install -r requirements.txt`
+pour build l'application sur votre machine:
+
+dans le repo:
+
+`npm install`
+
+`npm run dump`
+
+`npm run dist`
+___
+
+installation du repo: (dans votre conda environnement) `pip install -r requirements.txt`
 
 ___
 flags from https://flagpedia.net
