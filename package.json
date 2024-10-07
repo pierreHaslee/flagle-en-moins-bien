@@ -31,7 +31,8 @@
     "stlite": {
         "desktop": {
             "files": [
-                "./flagle_app"
+                "./flagle_app",
+                ".streamlit/*"
             ],
             "entrypoint": "./flagle_app/streamlit_app.py",
             "requirementsTxtFiles": [
